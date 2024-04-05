@@ -38,7 +38,6 @@ max_post_count = 10
 
 # Search for posts related to a specific topic on Reddit
 # query = 'Covid-19'
-# query = 'Thoughts on iphone'
 # query = 'War'
 query = 'Canada'
 
